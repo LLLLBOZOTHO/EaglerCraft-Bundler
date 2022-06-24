@@ -17,5 +17,5 @@ Not for the moment. I will release it when it will be done.
 # what is this?
 read description
 
-$ I don't understand
+# I don't understand
 then don't use it.
